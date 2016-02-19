@@ -235,7 +235,9 @@ h1::after {
     .faculty-div img {
         border: 10px double #fff;
     }
-
+#collapse3 {
+    border-image-width: 50px;
+}
 /*=====================================
   CONTACT STYLES 
   ===================================*/
